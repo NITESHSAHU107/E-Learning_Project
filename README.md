@@ -4,7 +4,7 @@ Welcome to the E-Learning Website! This platform is designed to provide engaging
 
 ## Demo
 
-Check out our [demo website](https://your-demo-link.com) to experience the features of the E-Learning Website:
+Check out our [demo website]([https://your-demo-link.com](https://niteshsahu107.github.io/E-Learning_Project/)) to experience the features of the E-Learning Website:
 
 - Browse through various courses in different categories.
 - Enroll in a sample course and access course materials.
